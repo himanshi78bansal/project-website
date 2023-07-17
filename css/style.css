@@ -1,0 +1,291 @@
+.header {
+  display: flex;
+  top: 0;
+  background-color: white;
+  /* border: 2px solid red; */
+}
+.icons {
+  margin-top: 60px;
+}
+.icons a {
+  margin: 10px;
+}
+.logo {
+  /* border: 2px solid green; */
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cont {
+  margin-top: 60px;
+  font-size: 25px;
+  margin-right: 90px;
+  color: #185cb0;
+}
+.navbar {
+  margin: 0px;
+  padding: 0;
+  display: block;
+}
+.list {
+  /* border: 2px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: auto;
+}
+.list li {
+  list-style: none;
+  margin: 15px;
+  /* padding: 2px; */
+  /* text-decoration: none; */
+}
+.list li a {
+  text-decoration: none;
+  color: #185cb0;
+  font-size: 30px;
+  margin: 5px;
+  padding: 3px;
+  font-weight: bold;
+}
+.btn {
+  background-color: #185cb0;
+  color: white;
+  width: 250px;
+  height: 60px;
+  border-radius: 45px;
+  display: block;
+  font-size: 25px;
+}
+.tcontainer {
+  padding: 55px;
+}
+#title {
+  margin-top: 100px;
+  text-align: center;
+}
+.head {
+  text-align: center;
+}
+.para {
+  font-size: 25px;
+  padding: 10px;
+}
+.img {
+  /* border: 2px solid green; */
+  margin: 30px;
+}
+.heading {
+  font-weight: 550;
+  background-color: #185cb0;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  padding: 12px;
+}
+#hi {
+  text-align: center;
+}
+.fcontainer {
+  /* border: 1px solid #0170b9; */
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  align-items: center;
+  gap: 80px;
+  /* flex-wrap: wrap; */
+}
+.fitem {
+  /* border: 2px solid black; */
+  width: 500px;
+  height: 675px;
+  padding: 20px;
+  /* text-align: center; */
+}
+.fheading {
+  /* margin: 80px; */
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.detail {
+  display: inline;
+  font-size: 20px;
+}
+.rcontainer {
+  display: flex;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 5px;
+  gap: 15px;
+  margin: 40px;
+}
+.ritem {
+  margin-left: 100px;
+  font-size: 30px;
+}
+.rheading {
+  margin-top: 40px;
+}
+.rdetails {
+  margin: 30px;
+}
+.gcontainer {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 30px;
+  gap: 50px;
+  /* flex-wrap: wrap; */
+  margin-top: 80px;
+}
+.gitem {
+  /* border: 2px solid green; */
+  padding: 3px;
+}
+.ghead {
+  font-weight: 400;
+  font-size: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.gcontainer ul {
+  font-size: 30px;
+  margin-left: 60px;
+}
+.hcontainer {
+  display: flex;
+  margin: 180px;
+  background-color: #185cb0;
+  padding: 15px;
+  gap: 5px;
+}
+.hitem {
+  margin: 40px;
+}
+.title {
+  color: #6ea3e4;
+  padding: 8px;
+  font-size: 30px;
+  text-align: center;
+}
+.list {
+  color: white;
+  font-size: 30px;
+}
+.about_container {
+  /* border: 1px solid #185cb0; */
+  display: flex;
+  flex-wrap: wrap;
+}
+.about_item {
+  /* border: 1px solid #185cb0; */
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  padding: 35px;
+}
+#about_heading {
+  background-color: #185cb0;
+  color: white;
+  font-size: 35px;
+  padding: 8px;
+}
+#about_dis {
+  font-size: 35px;
+  font-weight: bold;
+  color: rgb(69, 65, 65);
+  margin-top: 40px;
+}
+.about_para,
+.about_para li {
+  font-size: 23px;
+}
+.btn1 {
+  background-color: #185cb0;
+  color: white;
+  width: 450px;
+  height: 60px;
+  border-radius: 45px;
+  display: block;
+  font-size: 25px;
+}
+.know_us {
+  color: #185cb0;
+  font-size: 60px;
+  display: block;
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+  /* margin-left: 33px auto; */
+  /* margin-right: 33px auto; */
+}
+.jcontainer {
+  display: flex;
+  justify-content: center;
+  margin: 150px;
+  gap: 40px;
+}
+.jitem {
+  align-items: center;
+}
+.jtitle {
+  color: rgb(67, 65, 65);
+  padding: 8px;
+  font-size: 30px;
+}
+.jhead {
+  font-size: 50px;
+  text-align: center;
+  font-weight: 550;
+  padding: 8px;
+}
+.jhead2 {
+  text-align: center;
+  font-size: 30px;
+  padding: 8px;
+}
+.jdetail {
+  font-size: 25px;
+  padding: 8px;
+}
+.jformhead {
+  font-size: 39px;
+}
+.jform
+{
+  /* padding: 4px; */
+  margin: 40px;
+}
+
+input[type="text"],[type = "submit"] {
+  width: 49%;
+  padding: 12px;
+  border-radius: 4px;
+  resize: vertical;
+  margin: 4px;
+}
+input[type="number"],
+[type="email"],
+textarea {
+  border: 2px solid black;
+  width: 100%;
+  padding: 12px;
+  border-radius: 4px;
+  resize: vertical;
+  margin: 4px;
+}
+.kcontainer {
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: center; */
+  background-color: #fff2f6;
+  margin: 70px;
+  padding: 40px;
+}
+.kitem {
+  color: #185cb0;
+
+  padding: 115px;
+}
